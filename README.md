@@ -1,6 +1,6 @@
 # Software Design and Architecture (Ruby)
 
-The following exersises are developed in Ruby for the
+The following exercises are developed in Ruby for the
 Software Design an Architecture  class.
 
 
