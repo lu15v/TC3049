@@ -1,4 +1,4 @@
-# File: adapter_test.rb 
+# File: adapter_test.rb
 
 require 'minitest/autorun'
 require 'simple_queue'
