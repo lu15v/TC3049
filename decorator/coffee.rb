@@ -19,7 +19,7 @@ end
 class DarkRoast < Beverage
 
   def description
-    @@my_descript = "Dark Roast Coffee"
+    "Dark Roast Coffee"
   end
 
   def cost
@@ -32,7 +32,7 @@ class Espresso < Beverage
 
 
   def description
-    @@my_descript = "Espresso"
+    "Espresso"
   end
 
   def cost
@@ -44,7 +44,7 @@ end
 class HouseBlend < Beverage
 
  def description
-   @@my_descript = "House Blend Coffee"
+   "House Blend Coffee"
  end
 
  def cost
