@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+      <p>
+        El mensaje es: <%= @mensaje %>
+      </p>
+      <ul>
+        <% @colors.each do |color| %>
+        <li> <%= color %></li>
+        <%end%>
+      </ul>
+      <p>
+        You've accessed this page <%= @count %> times.
+      </p>
+      <p>
+        This page has been accessed  <%= @global_count %> times in total.
+      </p>
+    </body>
+</html>
